@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Проктология и проктологические заболевания]]></title>
   <link href="http://proctotk.github.io/atom.xml" rel="self"/>
   <link href="http://proctotk.github.io/"/>
-  <updated>2014-04-23T20:54:57+04:00</updated>
+  <updated>2014-04-23T22:10:55+04:00</updated>
   <id>http://proctotk.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Хороший проктолог со стажем]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
